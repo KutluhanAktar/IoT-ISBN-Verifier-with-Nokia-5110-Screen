@@ -1,0 +1,15 @@
+html{background-color:#eb2e00;font-family: 'Bangers', cursive;}
+button, input, label, h2{font-family: 'Bangers', cursive;color:white;}
+h2{font-size:30px;text-align:center;}
+input[type="text"]{width:60%;color:slategrey;}
+
+.create{display:block;background-color:#002699;background:linear-gradient(45deg, #ff5c33, #002699);margin:auto;margin-top:50px;width:70%;height:auto;border:2px solid white;border-radius:20px;padding-left:10px;padding-right:10px;}
+.create button{display:block;width:60%;margin:auto;margin-top:20px;margin-bottom:20px;background-color:slategrey;border:none;outline:none;font-size:20px;border-radius:15px;}
+.create button:hover{background-color:#cccccc;cursor:pointer;}
+
+.books{display:block;background-color:#2E3033;margin:auto;margin-top:20px;width:95%;}
+.books table{border-collapse: collapse;width:100%;}
+.books table, .books tr, .books th, .books td{border:2px solid white;color:white;font-size:20px;}
+.books th{color:#F3D060;background-color:#A5282C;}
+.books button{margin-top:5px;margin-bottom:5px;background-color:#A5282C;border:none;border-radius:5px;cursor:pointer;outline:none;font-size:20px;}
+.books button:hover{background-color:white;color:#A5282C;}
